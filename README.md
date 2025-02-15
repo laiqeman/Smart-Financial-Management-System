@@ -1,5 +1,9 @@
 # Smart Financial Management System 🚀  
 **FAST National University of Computer and Emerging Sciences, Islamabad**  
+👨‍🏫 **Instructor:** Dr. Usama Arshad *(Assistant Professor, FSM)*  
+🎓 **Program:** BS Financial Technology (BSFT)  
+📅 **Semester:** Spring 2025  
+
 
 ---
 
