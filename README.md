@@ -25,20 +25,20 @@ This project focuses on **financial data analysis, budget tracking, and investme
 
 ## 🚀 How to Run the Project?  
 
-### **1️⃣ Clone the Repository**  
+### 1️⃣ Clone the Repository**  
 
 git clone https://github.com/laiqeman/Smart-Financial-Management-System.git
 cd Smart-Financial-Management-System
 
 ---
 
-### **2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
 ---
 
-### **3️⃣ Run the Jupyter Notebook
+### 3️⃣ Run the Jupyter Notebook
 
 jupyter notebook
 
