@@ -1,6 +1,6 @@
 # Smart-Financial-Management-System
-🚀 FAST National University of Computer and Emerging Sciences, Islamabad
-📌 About the Project
+#🚀 FAST National University of Computer and Emerging Sciences, Islamabad
+#📌 About the Project
 The Smart Financial Management System is a Python-based project developed as part of the AF3005 – Programming for Finance course. This project focuses on financial data analysis, budget tracking, and investment insights using Python programming.
 🎯 Learning Objectives
 Develop a financial management system using Python.
